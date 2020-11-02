@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a14b39fd-b8b0-4b30-b8e8-81fa6c0f145f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blogg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogg/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogg/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogg/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jjdsrbQq39BNkdVvSyH6ABm4XY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a14b39fd-b8b0-4b30-b8e8-81fa6c0f145f" name="Default Changelist" comment="" />
+      <created>1604321644526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604321644526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="816" y="109" key="SettingsEditor" timestamp="1604321728805">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="816" y="109" key="SettingsEditor/67.27.1851.861@67.27.1851.861" timestamp="1604321728805" />
+  </component>
+</project>
